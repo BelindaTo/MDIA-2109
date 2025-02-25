@@ -1,0 +1,45 @@
+html {
+    background-color: rgb(255, 239, 220);
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Inter', sans-serif;
+    color: rgb(168, 200, 227);
+    text-align: center;
+    border: 10px double pink;
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+}
+
+h1:hover {
+    color: pink;
+    transition: ease-out 0.5s;
+}
+
+.header {
+    font-family: 'Inter', sans-serif;
+    margin: 40px;
+}
+
+.number {
+    font-size: 60px;
+    color: rgb(255, 179, 192);
+}
+
+.number:hover {
+    color:rgb(168, 200, 227);
+    transition: ease-out 0.5s;
+}
+
+li {
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    margin: 20px 0 20px 20px
+}
+
+img {
+    margin: 2%;
+}
+
